@@ -1,8 +1,9 @@
 <?php
 
+use App\Comic;
 use Illuminate\Database\Seeder;
 
-class DatabaseSeeder extends Seeder
+class ComicSeeder extends Seeder
 {
     /**
      * Seed the application's database.
